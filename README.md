@@ -8,4 +8,5 @@ Data obtained from Kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
     <li>Logistic Regression</li>
     <li>Decision Tree</li>
     <li>Random Forest</li>
+    <li>Score-Weighted Models</li>
 </ul>
